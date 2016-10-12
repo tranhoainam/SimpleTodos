@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Todos</string>
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="newNote">Enter your new note!</string>
+    <string name="editNote">Edit your note</string>
+    <string name="areYouSure">Are you sure you want to delete the note?</string>
+</resources>
